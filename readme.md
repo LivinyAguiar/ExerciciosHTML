@@ -2,11 +2,11 @@
     <p><b>HTML Homework</b></p>
 </h1>
 
-## **ABOUT** | **SOBRE**
+## **SOBRE**
 
-ATIVIDAES SOBRE TAGS E FUNÇÕES DO **HTML** 
+ATIVIDADES SOBRE TAGS E FUNÇÕES DO **HTML** 
 
-## **TOPICS** | **TÓPICOS**
+## **TÓPICOS**
 
 ### TEXTO<br>
 
