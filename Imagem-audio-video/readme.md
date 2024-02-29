@@ -2,7 +2,7 @@
     <p><b>HTML Homework</b></p>
 </h1>
 
-## TEXTO
+## IMAGEM, ÁUDIO E VÍDEO
 
 <p>Nesta lista de exercícios aprendemos a adicionar imagem, áudio e vídeo a uma página HTML.</p>
 
