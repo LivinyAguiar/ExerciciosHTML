@@ -6,12 +6,10 @@
 
 <p>Os primeiros exercícios foram bem simples. Utilizamos opções de formatação: título, parágrafos, quebra de linha, etc.</p>
 
-![Print Página Meu Nome](exercicios-html/Texto/meunome.png)
+![meunome](https://github.com/LivinyAguiar/ExerciciosHTML/assets/161062699/1b80d0b2-42f6-418b-bc0c-672ef3ea08ee)
 
-![Print Página Comidas Favoritas](exercicios-html/Texto/comidas.png)
+![comidas](https://github.com/LivinyAguiar/ExerciciosHTML/assets/161062699/d561c041-eb64-4725-bf7c-d55b639397e3)
 
-![Print Página Currículo](exercicios-html/Texto/curriculo.png)
+![curriculo](https://github.com/LivinyAguiar/ExerciciosHTML/assets/161062699/48ed6344-5f18-4b2a-b705-a6ba704769a6)
 
-![Print Página Site Favorito](exercicios-html/Texto/site.png)
-
-
+![site](https://github.com/LivinyAguiar/ExerciciosHTML/assets/161062699/ead31119-19bf-498b-86a5-cf9b540691d7)
